@@ -13,6 +13,7 @@
 		3CECAF1C27F4628B008CF1D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CECAF1A27F4628B008CF1D7 /* Main.storyboard */; };
 		3CECAF1E27F4628F008CF1D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CECAF1D27F4628F008CF1D7 /* Assets.xcassets */; };
 		3CECAF2127F4628F008CF1D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CECAF1F27F4628F008CF1D7 /* LaunchScreen.storyboard */; };
+		3CECAF2B27F462C1008CF1D7 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3CECAF2927F462C1008CF1D7 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3CECAF1D27F4628F008CF1D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CECAF2027F4628F008CF1D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3CECAF2227F4628F008CF1D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CECAF2927F462C1008CF1D7 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				3CECAF1627F4628B008CF1D7 /* SceneDelegate.swift */,
 				3CECAF1827F4628B008CF1D7 /* ViewController.swift */,
 				3CECAF1A27F4628B008CF1D7 /* Main.storyboard */,
+				3CECAF2927F462C1008CF1D7 /* alarm_sound.mp3 */,
 				3CECAF1D27F4628F008CF1D7 /* Assets.xcassets */,
 				3CECAF1F27F4628F008CF1D7 /* LaunchScreen.storyboard */,
 				3CECAF2227F4628F008CF1D7 /* Info.plist */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3CECAF2127F4628F008CF1D7 /* LaunchScreen.storyboard in Resources */,
+				3CECAF2B27F462C1008CF1D7 /* alarm_sound.mp3 in Resources */,
 				3CECAF1E27F4628F008CF1D7 /* Assets.xcassets in Resources */,
 				3CECAF1C27F4628B008CF1D7 /* Main.storyboard in Resources */,
 			);
